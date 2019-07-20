@@ -84,4 +84,4 @@ function refresh(){
      document.getElementById("out") . innerHTML = c.join('');
 
  }
- 
+//  end
